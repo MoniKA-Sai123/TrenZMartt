@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrenZMartt/static/css/main.25a7eca8.css",
+    "main.js": "/TrenZMartt/static/js/main.d44fa2d5.js",
+    "index.html": "/TrenZMartt/index.html",
+    "main.25a7eca8.css.map": "/TrenZMartt/static/css/main.25a7eca8.css.map",
+    "main.d44fa2d5.js.map": "/TrenZMartt/static/js/main.d44fa2d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a7eca8.css",
+    "static/js/main.d44fa2d5.js"
+  ]
+}
